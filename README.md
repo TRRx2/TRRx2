@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @TRRx2
-- 👀 I’m interested in MA trading mostley ...
-- 🌱 I’m currently learning coding  ...
-- 💞️ I’m looking to collaborate on my first project for reference in future projects  ...
-- 📫 How to reach me ; traderiderepeat@outlook.com 
-- im also a consultant in emotional based clear rational teading every trade no matter the outcome, to approach the next trade just like the first. 
+. www.trrlivetools.com
+trrx2, gives tools for trade, [education] through apps and media ' 
+hope it helps traders winners and loosers {fueture winners} if you use toolas .
+{apps}
+Domain{}
 
 <!---
 TRRx2/TRRx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
